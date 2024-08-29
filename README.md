@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhishekkshar
+- 👋 Hi, I’m @abhishekksharma
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning MCA
 - 💞️ I’m looking to COLLABORATE to Intership 
 
 
